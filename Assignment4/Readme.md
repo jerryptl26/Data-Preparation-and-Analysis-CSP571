@@ -3,7 +3,7 @@
 
 <p align="center">
   <a style="text-decoration:none" >
-   <img src="https://img.shields.io/badge/Graded%20Score-99%2F100-green" alt="version" />
+   <img src="https://img.shields.io/badge/Graded%20Score-100%2F100-green" alt="version" />
  </a>
 </p>
 

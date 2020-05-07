@@ -1,5 +1,11 @@
 # Assignment 2
 
+<p align="center">
+  <a style="text-decoration:none" >
+   <img src="https://img.shields.io/badge/Graded%20Score-100%2F100-green" alt="version" />
+ </a>
+</p>
+
 ### 1. Recitation Exercises
 
 These exercises are to be found in: **Introduction to Statistical Learning,

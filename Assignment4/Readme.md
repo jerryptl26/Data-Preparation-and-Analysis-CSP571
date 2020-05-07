@@ -7,6 +7,8 @@
  </a>
 </p>
 
+### 1 Recitation Exercises
+
 These exercises are to be found in: **Introduction to Statistical Learning,
 7th Printing (Online Edition)** by *Gareth James, Daniela Witten, Trevor
 Hastie, Robert Tibshirani*.
